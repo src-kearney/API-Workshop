@@ -12,7 +12,7 @@ chmod +x post.sh
 chmod +x get.sh
 . setup.sh
 ```
-### Resources
-  [cUrl examples](https://gist.github.com/subfuzion/08c5d85437d5d4f00e58)
-  [Understanding API's](https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/)
-  [Postman - the holy grail of API request tools](https://www.getpostman.com/)
+### Resources  
+  [cUrl examples](https://gist.github.com/subfuzion/08c5d85437d5d4f00e58)  
+  [Understanding API's](https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/)  
+  [Postman - the holy grail of API request tools](https://www.getpostman.com/)  
