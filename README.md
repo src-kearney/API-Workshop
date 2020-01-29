@@ -17,7 +17,7 @@ chmod +x get.sh
   [Understanding API's](https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/)  
   [Postman - the holy grail of API request tools](https://www.getpostman.com/)  
   
-  Useful APIs
+  Useful APIs  
   [NASA API](https://api.nasa.gov/)  
   [Amazon Web Services (AWS)](https://docs.aws.amazon.com/)  
   [Google APIs](https://developers.google.com/apis-explorer)  
@@ -27,7 +27,7 @@ chmod +x get.sh
   [Youtube API](https://developers.google.com/youtube?csw=1#data_api)  
   [Spotify API](https://developer.spotify.com/documentation/web-api/)  
     
-  Fun, Easy to Use APIs
+  Fun, Easy to Use APIs  
   [NFL Arrest API](http://nflarrest.com/api/)  
   [Openweathermap API](https://openweathermap.org/api)  
   [Kanye Rest API](https://kanye.rest/)  
